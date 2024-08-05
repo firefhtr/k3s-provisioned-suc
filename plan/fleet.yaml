@@ -1,0 +1,4 @@
+defaultNamespace: cattle-system
+
+dependsOn:
+  - name: k3s-provisioned-suc-crd-srv
